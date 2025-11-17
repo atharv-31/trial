@@ -1,0 +1,11 @@
+.metadata/
+Servers/
+.settings/
+.classpath
+.project
+
+bin/
+target/
+build/
+*.class
+*.log
