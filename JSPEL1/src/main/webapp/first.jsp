@@ -16,6 +16,6 @@
     request.setAttribute("stud", student);
 %>
 
-<jsp:include page="two.jsp"></jsp:include>
+<jsp:include page="second.jsp"></jsp:include>
 </body>
 </html>
